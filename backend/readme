@@ -1,1 +1,6 @@
 Back end code
+NOTE!!!
+
+install node_modules :
+    npm init -y
+    npm install
